@@ -1,0 +1,5 @@
+packages/smartbox/*
+!packages/smartbox/src
+
+packages/smartbox-icons/*
+!packages/smartbox-icons/src

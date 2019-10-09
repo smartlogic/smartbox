@@ -1,0 +1,45 @@
+{
+  "name": "@smartlogic/smartbox-icons",
+  "version": "1.2.1",
+  "description": "React icons for Smartbox",
+  "main": "smartbox-icons.js",
+  "module": "smartbox-icons.es.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmartLogic/smartbox.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "SmartLogic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SmartLogic/smartbox/issues"
+  },
+  "homepage": "https://github.com/SmartLogic/smartbox/tree/master/packages/smartbox-icons#readme",
+  "sideEffects": false,
+  "scripts": {
+    "build": "rollup -c",
+    "prepublishOnly": "npm run build",
+    "watch": "rollup -cw"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "rollup": "^0.57.1",
+    "rollup-plugin-babel": "^3.0.4",
+    "rollup-plugin-commonjs": "^9.1.3",
+    "rollup-plugin-node-resolve": "^3.3.0",
+    "rollup-plugin-uglify": "^3.0.0"
+  }
+}
