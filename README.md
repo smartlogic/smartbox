@@ -1,8 +1,10 @@
 # Smartbox
-Smartbox is an open source React component library, built for [SmartLogic's UI](https://github.com/SmartLogic/2web2ui).
+Smartbox is an open source React component library, built for [SmartLogic's Clients](https://smartlogic.io).
 
-[![Build Status](https://img.shields.io/travis/SmartLogic/smartbox/master.svg?style=flat-square)](https://travis-ci.org/SmartLogic/smartbox)
-[![Coverage Status](https://img.shields.io/coveralls/github/SmartLogic/smartbox/master.svg?style=flat-square)](https://coveralls.io/github/SmartLogic/smartbox?branch=master)
+It is a fork of [SparkPost's _Matchbox_ project](https://github.com/sparkpost/matchbox), so mucho thanks to SparkPost.
+
+[![Build Status](https://img.shields.io/travis/smartlogic/smartbox/master.svg?style=flat-square)](https://travis-ci.org/smartlogic/smartbox)
+[![Coverage Status](https://img.shields.io/coveralls/github/smartlogic/smartbox/master.svg?style=flat-square)](https://coveralls.io/github/smartlogic/smartbox?branch=master)
 
 #### Links:
 - [Component Demo](https://smartlogic.github.io/smartbox/)

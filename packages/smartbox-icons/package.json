@@ -6,7 +6,7 @@
   "module": "smartbox-icons.es.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SmartLogic/smartbox.git"
+    "url": "git+https://github.com/smartlogic/smartbox.git"
   },
   "publishConfig": {
     "access": "public"
@@ -14,9 +14,9 @@
   "author": "SmartLogic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SmartLogic/smartbox/issues"
+    "url": "https://github.com/smartlogic/smartbox/issues"
   },
-  "homepage": "https://github.com/SmartLogic/smartbox/tree/master/packages/smartbox-icons#readme",
+  "homepage": "https://github.com/smartlogic/smartbox/tree/master/packages/smartbox-icons#readme",
   "sideEffects": false,
   "scripts": {
     "build": "rollup -c",

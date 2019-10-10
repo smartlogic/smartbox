@@ -4,7 +4,7 @@ import { setOptions } from '@storybook/addon-options';
 
 setOptions({
   name: 'Smartbox',
-  url: 'https://github.com/SmartLogic/smartbox/',
+  url: 'https://github.com/smartlogic/smartbox/',
   hierarchySeparator: /\//,
   hierarchyRootSeparator: /\|/,
 });

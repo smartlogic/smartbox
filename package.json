@@ -1,5 +1,6 @@
 {
   "name": "smartbox-workspace",
+  "description": "A react template that includes the SmartBox UI kit and Storybook",
   "private": true,
   "scripts": {
     "start:storybook": "start-storybook -p 9001 -c .storybook",
@@ -46,8 +47,8 @@
     "@storybook/storybook-deployer": "^2.3.0",
     "autoprefixer": "^8.4.1",
     "babel-core": "^6.26.3",
-    "babel-eslint": "^8.2.3",
-    "babel-jest": "^22.4.3",
+    "babel-eslint": "10.0.3",
+    "babel-jest": "^24.9.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-react-app": "^3.1.1",

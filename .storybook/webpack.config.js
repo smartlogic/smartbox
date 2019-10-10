@@ -30,7 +30,7 @@ module.exports = (baseConfig, env, defaults) => {
       '@smartlogic/smartbox': path.resolve(__dirname, '../packages/smartbox/src')
     },
     modules: [path.join(__dirname, '../node_modules')]
-  }
+  };
 
   return defaults;
 };

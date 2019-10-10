@@ -8,9 +8,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SmartLogic/smartbox"
+    "url": "https://github.com/smartlogic/smartbox"
   },
-  "homepage": "https://github.com/SmartLogic/smartbox",
+  "homepage": "https://github.com/smartlogic/smartbox",
   "publishConfig": {
     "access": "public"
   },
@@ -22,7 +22,7 @@
   "sideEffects": false,
   "dependencies": {
     "@sparkpost/design-tokens": "0.0.4",
-    "@smartlogic/smartbox-icons": "^1.2.1",
+    "@smartlogic/smartbox-icons": "file:./../smartbox-icons",
     "classnames": "^2.2.5",
     "prop-types": "^15.6.1",
     "react": "^16.8.6",

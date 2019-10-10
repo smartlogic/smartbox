@@ -10,7 +10,7 @@ export default storiesOf('Welcome', module)
     <div>
       <h1>Welcome to Smartbox</h1>
       <p>
-        This is a component dev environment for the <a href='http://github.com/SmartLogic/2web2ui/' target='_blank'>SmartLogic React WebUI</a>.
+        This is a component dev environment for the <a href='http://github.com/smartlogic/2web2ui/' target='_blank'>SmartLogic React WebUI</a>.
       </p>
     </div>
   ));
