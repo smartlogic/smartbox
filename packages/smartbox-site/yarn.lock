@@ -1118,7 +1118,7 @@
 "@smartlogic/smartbox@file:../smartbox":
   version "3.8.0"
   dependencies:
-    "@smartlogic/smartbox-icons" "file:../../../../../Library/Caches/Yarn/v4/npm-@smartlogic-smartbox-3.8.0-d36b3fad-06ed-48a2-9077-a8810b35046c-1570712402354/node_modules/@smartlogic/smartbox-icons"
+    "@smartlogic/smartbox-icons" "file:../smartbox-icons"
     "@sparkpost/design-tokens" "0.0.4"
     classnames "^2.2.5"
     prop-types "^15.6.1"
@@ -3130,9 +3130,9 @@ decamelize@^2.0.0:
     xregexp "4.0.0"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-equal@^1.0.1:
   version "1.1.0"
